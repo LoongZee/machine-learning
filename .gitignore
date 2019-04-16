@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+/Dataset
+.idea/
+.DS_Store
+/Bagging_RF
+
 # Distribution / packaging
 .Python
 build/
